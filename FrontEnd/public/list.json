@@ -1,0 +1,86 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title": "short, compelling, memorable, and appropriate to the genre and plot of the story" ,
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721387870~exp=1721391470~hmac=03fe5daae647196d3052c47652086caefd84fcddbb54ca10e70cfa1b6ee13a4a&w=740"
+
+    },
+    {
+        "id":2,
+        "name":"Buisness Book",
+        "title": "short, compelling, memorable, and appropriate to the genre and plot of the story" ,
+        "price":30,
+        "category":"notFree",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721387870~exp=1721391470~hmac=03fe5daae647196d3052c47652086caefd84fcddbb54ca10e70cfa1b6ee13a4a&w=740"
+
+    },
+    {
+        "id":3,
+        "name":"Play Book",
+        "title": "short, compelling, memorable, and appropriate to the genre and plot of the story" ,
+        "price":18,
+        "category":"notFree",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721387870~exp=1721391470~hmac=03fe5daae647196d3052c47652086caefd84fcddbb54ca10e70cfa1b6ee13a4a&w=740"
+
+    },
+    {
+        "id":4,
+        "name":"Sports Book",
+        "title": "short, compelling, memorable, and appropriate to the genre and plot of the story" ,
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721387870~exp=1721391470~hmac=03fe5daae647196d3052c47652086caefd84fcddbb54ca10e70cfa1b6ee13a4a&w=740"
+
+    },
+    {
+        "id":5,
+        "name":"Geography Book",
+        "title": "short, compelling, memorable, and appropriate to the genre and plot of the story" ,
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721387870~exp=1721391470~hmac=03fe5daae647196d3052c47652086caefd84fcddbb54ca10e70cfa1b6ee13a4a&w=740"
+
+    },
+    {
+        "id":6,
+        "name":"music Book",
+        "title": "short, compelling, memorable, and appropriate to the genre and plot of the story" ,
+        "price":50,
+        "category":"notFree",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721387870~exp=1721391470~hmac=03fe5daae647196d3052c47652086caefd84fcddbb54ca10e70cfa1b6ee13a4a&w=740"
+
+    },
+
+    {
+        "id":7,
+        "name":"song Book",
+        "title": "short, compelling, memorable, and appropriate to the genre and plot of the story" ,
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721387870~exp=1721391470~hmac=03fe5daae647196d3052c47652086caefd84fcddbb54ca10e70cfa1b6ee13a4a&w=740"
+
+    },
+    {
+        "id":8,
+        "name":"idk Book",
+        "title": "short, compelling, memorable, and appropriate to the genre and plot of the story" ,
+        "price":15,
+        "category":"notFree",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721387870~exp=1721391470~hmac=03fe5daae647196d3052c47652086caefd84fcddbb54ca10e70cfa1b6ee13a4a&w=740"
+
+    },
+    {
+        "id":9,
+        "name":"politics Book",
+        "title": "short, compelling, memorable, and appropriate to the genre and plot of the story" ,
+        "price":10,
+        "category":"notFree",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1721387870~exp=1721391470~hmac=03fe5daae647196d3052c47652086caefd84fcddbb54ca10e70cfa1b6ee13a4a&w=740"
+
+    }
+
+
+]
